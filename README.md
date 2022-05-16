@@ -9,6 +9,9 @@
 - Karina Reinarz: Investigación y redacción
 - Vicente Muñoz: Código
 
+## Tema del curso
+
+## Tema del grupo: La Fiesta de la Tirana
 
 Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios creados dentro de una organización de GitHub**. Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
 
