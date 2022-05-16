@@ -2,16 +2,20 @@
 
 ###  Clase 11 → 16/05/2022
 
-## Equipo de trabajo
+### EQUIPO DE TRABAJO
 - Catalina Harambour: Ilustrator y svg
 - Valentina Herrera: ilustración y estilo de la página
 - Gaspar López: Investigación y código y estilos
 - Karina Reinarz: Investigación y redacción
 - Vicente Muñoz: Código
 
-## Tema del curso
+- - - - - - - -
 
-## Tema del grupo: La Fiesta de la Tirana
+### TEMA DEL CURSO
+
+- - - - - - - -
+
+### TEMA DEL GRUPO: LA FIESTA DE LA TIRANA
 
 Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios creados dentro de una organización de GitHub**. Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
 
@@ -51,6 +55,3 @@ Avanzar en la investigación del tema de curso y sub-tema grupal; tal avance ser
 
 Se recomienda que guarden registro de su avance en el `README.md` del repositorio ya creado.
 
-- - - - - - - - 
-
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-10) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12) 
