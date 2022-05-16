@@ -3,15 +3,21 @@
 ###  Clase 11 → 16/05/2022
 
 ### EQUIPO DE TRABAJO
-- Catalina Harambour: Ilustrator y svg
-- Valentina Herrera: ilustración y estilo de la página
-- Gaspar López: Investigación y código y estilos
-- Karina Reinarz: Investigación y redacción
-- Vicente Muñoz: Código
+- *Catalina Harambour*: Ilustrator y svg
+- *Valentina Herrera*: ilustración y estilo de la página
+- *Gaspar López*: Investigación y código y estilos
+- *Karina Reinarz*: Investigación y redacción
+- *Vicente Muñoz*: Código
 
 - - - - - - - -
 
 ### TEMA DEL CURSO: CARNAVALES LATINOAMERICANOS
+(Parrafo describiendo el tema)
+- Argentina
+- Bolivia
+- Chile: La Tirana
+- Brasil: Carnaval de Rio
+- Colombia: Carnaval de Barraquilla
 
 - - - - - - - -
 
