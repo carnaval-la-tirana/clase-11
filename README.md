@@ -2,7 +2,7 @@
 
 ###  Clase 11 → 16/05/2022
 
-### EQUIPO DE TRABAJO
+#### EQUIPO DE TRABAJO
 - **Catalina Harambour**: Ilustrator y svg
 - **Valentina Herrera**: ilustración y estilo de la página
 - **Gaspar López**: Investigación y código y estilos
@@ -11,7 +11,7 @@
 
 - - - - - - - -
 
-### TEMA DEL CURSO: CARNAVALES LATINOAMERICANOS
+#### TEMA DEL CURSO: CARNAVALES LATINOAMERICANOS
 (Parrafo describiendo el tema)
 - Argentina
 - Bolivia
@@ -21,7 +21,7 @@
 
 - - - - - - - -
 
-### TEMA DEL GRUPO: LA FIESTA DE LA TIRANA
+#### TEMA DEL GRUPO: LA FIESTA DE LA TIRANA
 
 Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios creados dentro de una organización de GitHub**. Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
 
