@@ -11,7 +11,7 @@
 
 - - - - - - - -
 
-### TEMA DEL CURSO
+### TEMA DEL CURSO: CARNAVALES LATINOAMERICANOS
 
 - - - - - - - -
 
