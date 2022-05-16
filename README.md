@@ -3,11 +3,11 @@
 ###  Clase 11 → 16/05/2022
 
 ## Equipo de trabajo
-Catalina Harambour: Ilustrator y svg
-Valentina Herrera: ilustración y estilo de la página
-Gaspar López: Investigación y código y estilos
-Karina Reinarz: Investigación y redacción
-Vicente Muñoz: Código
+- Catalina Harambour: Ilustrator y svg
+- Valentina Herrera: ilustración y estilo de la página
+- Gaspar López: Investigación y código y estilos
+- Karina Reinarz: Investigación y redacción
+- Vicente Muñoz: Código
 
 
 Para facilitar el trabajo grupal, desde esta clase usaremos **repositorios creados dentro de una organización de GitHub**. Y en estos repositorios, cada `README.md` tendrá mayor protagonismo. Para este cambio, podrían ser útiles las siguientes referencias:
