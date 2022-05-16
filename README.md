@@ -12,9 +12,10 @@
 - - - - - - - -
 
 #### TEMA DEL CURSO: CARNAVALES LATINOAMERICANOS
-(Parrafo describiendo el tema)
-- Argentina
-- Bolivia
+La realización de  una infografía digital que contemple la tradición de algunos carnavales latinoamericanos, mostrando su origen, su historia, su cultura, su baile y vestimentas.
+
+- Argentina: Carnaval de Gualeguaychú
+- Bolivia: Carnaval de Oruro
 - Chile: La Tirana
 - Brasil: Carnaval de Rio
 - Colombia: Carnaval de Barraquilla
